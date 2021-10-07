@@ -13,10 +13,13 @@
   
 ## Description:
 This project allows users to keep track of all their expenses, with or without an internet connection. The transactions will repopulate after going back online. This website is also able to be downloaded as a progressive web application.
+
+![radiant-spire-44764 herokuapp com_](https://user-images.githubusercontent.com/84198162/136457773-53f8ff4f-50dc-4cb6-9389-6e15db6e94d9.png)
+
 ## Installation:
 Go to deployed website and download the progressive web app version by using your device's specifications.
 ## Usage:
-The Budget Tracker allows you to record the amount of a transaction and whether it was adding funds or subtracting them, giving you a grand total of all transactions.
+The Budget Tracker allows you to record the amount of a transaction and whether it was adding funds or subtracting them, giving you a grand total of all transactions as well as giving you a visual breakdown with a line graph.
 ## Contribution:
 Make pull request.
 ## Questions:
